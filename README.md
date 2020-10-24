@@ -1,5 +1,4 @@
-### Thanks for visiting my profile 👋 
-### This is Justin!
+### Hi, this is Justin! Thanks for visiting my profile 👋 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Tech-Recruiter-Justin)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinchchoi)
@@ -7,6 +6,7 @@
 
 I am now learning web development from scratch. Coming from a technical recruitment background, my daily interactions with my software engineer candidates have sparked my interest in coding. There is no doubt that this self-study path has helped me understand web technologies and a variety of concepts i.e. development tools, programming languages, CS fundamentals, developer interview questions etc.
 
+<p>
 <img align="right" alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="50%" height="auto"/>
 
 #### 🌱 Things I am currently working on: 
@@ -18,10 +18,12 @@ I am now learning web development from scratch. Coming from a technical recruitm
 - Get to work by 7:45am
 - Learn to code for not less than an hour, at least 3 days a week
 - Lose some weight (is it even possible?)
+</p>
 
-#### :computer: Programming languages and tools: 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tech-Recruiter-Justin&show_icons=true&hide_border=true&theme=radical" />
+
+#### :computer: Programming languages and tools: 
 
 <code><img width="33%" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/html%20logo.png?raw=true"></code>
 <br />
