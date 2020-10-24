@@ -23,7 +23,7 @@ I am now learning web development from scratch. Coming from a technical recruitm
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tech-Recruiter-Justin&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<code><img width="40%" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/html%20logo.png?raw=true"></code>
+<code><img width="33%" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/html%20logo.png?raw=true"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
