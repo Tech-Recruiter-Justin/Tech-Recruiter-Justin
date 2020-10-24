@@ -21,7 +21,7 @@ I am now learning web development from scratch. Coming from a technical recruitm
 
 #### :computer: Programming languages and tools: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tech-Recruiter-Justin&show_icons=true&hide_border=true&theme=merko" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Tech-Recruiter-Justin&show_icons=true&hide_border=true&theme=radical" />
 
 <code><img width="33%" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/html%20logo.png?raw=true"></code>
 <br />
