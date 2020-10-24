@@ -7,7 +7,7 @@
 
 I am now learning web development from scratch. Coming from a technical recruitment background, my daily interactions with my software engineer candidates have sparked my interest in coding. There is no doubt that this self-study path has helped me understand web technologies and a variety of concepts i.e. development tools, programming languages, CS fundamentals, developer interview questions etc.
 
-<img align="right" alt="img" src="https://github.com/Tech-Recruiter-Justin/README/blob/master/profile_pic.gif?raw=true" width="50%" height="auto"/>
+<img align="right" alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="50%" height="auto"/>
 
 #### 🌱 Things I am currently working on: 
 - The Web Developer Bootcamp 2020 
