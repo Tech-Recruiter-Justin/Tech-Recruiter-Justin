@@ -15,7 +15,6 @@ I am now learning web development from scratch. Coming from a technical recruitm
 - My daily job as a Technical Recruiter/ Headhunter 🚀
 
 #### :muscle: Things I am challenging myself with:
-- Get to work by 7:45am
 - Learn to code for not less than an hour, > 3 days a week
 - Lose some weight (is it even possible?)
 </p>
