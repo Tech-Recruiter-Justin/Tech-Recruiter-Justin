@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Justin Choi</h1>
-<h2 align="center">Full Stack Developer | ex-Tech Recruiter</h2>
+<h3 align="center">Hi 👋, I'm Justin Choi</h3>
+<h4 align="center">Full Stack Developer | ex-Tech Recruiter</h4>
 
 <p align="center">
     <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/d.gif?raw=true" width="40%" height="auto"/>
