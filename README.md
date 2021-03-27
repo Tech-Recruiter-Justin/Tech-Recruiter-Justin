@@ -3,7 +3,6 @@
 
 <p align="center">
     <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/d.gif?raw=true" width="55%" height="auto"/>
-    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="45%" height="auto"/>
 </p>
 
 <p align="center">
@@ -40,7 +39,7 @@
 
 📝 *** I regularly write articles on [https://www.linkedin.com/today/author/justinchchoi](https://www.linkedin.com/today/author/justinchchoi)
 
-📫 *** Reach me on **justin7623@gmail.com**
+📫 *** Reach me on **justin7623@gmail.com** OR connect with me on **https://linkedin.com/in/justinchchoi**
 
 🌱 *** Learning **TypeScript, Java, Spring Boot**
 
@@ -49,11 +48,5 @@
 💬 *** Ask me about **the technical job market in Hong Kong**
 
 ⚡ *** Fun fact **I type 100+ words per minute**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-    <a href="https://linkedin.com/in/justinchchoi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="justinchchoi" height="30" width="40" /></a>
-</p>
 
 <p></p>
