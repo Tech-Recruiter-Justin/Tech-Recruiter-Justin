@@ -2,11 +2,11 @@
 <h2 align="center">Full Stack Developer | ex-Tech Recruiter</h2>
 
 <p align="left">
-    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/giphy.gif?raw=true" width="47%" height="auto"/>
+    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/d.gif?raw=true" width="45%" height="auto"/>
 </p>
 
 <p align="right">
-    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="47%" height="auto"/>
+    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="45%" height="auto"/>
 </p>
 
 <p align="center">
