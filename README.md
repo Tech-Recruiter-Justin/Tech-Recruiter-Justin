@@ -3,7 +3,7 @@
 
 <p align="center">
     <img align="left" alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/d.gif?raw=true" width="55%" height="auto"/>
-    <img align="right" alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="42%" height="auto"/>
+    <img align="right" alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="45%" height="auto"/>
 </p>
 
 <p align="center">
