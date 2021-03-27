@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Justin Choi</h1>
 <h2 align="center">Full Stack Developer | ex-Tech Recruiter</h2>
 
+<p align="center">
 <p align="left">
-    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/d.gif?raw=true" width="45%" height="auto"/>
+    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/d.gif?raw=true" width="48%" height="auto"/>
 </p>
-
 <p align="right">
-    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="45%" height="auto"/>
+    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/profile_pic.gif?raw=true" width="48%" height="auto"/>
+</p>
 </p>
 
 <p align="center">
