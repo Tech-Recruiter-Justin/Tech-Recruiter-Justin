@@ -2,7 +2,7 @@
 <h2 align="center">Full Stack Developer | ex-Tech Recruiter</h2>
 
 <p align="center">
-    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/d.gif?raw=true" width="55%" height="auto"/>
+    <img alt="img" src="https://github.com/Tech-Recruiter-Justin/Tech-Recruiter-Justin/blob/main/d.gif?raw=true" width="40%" height="auto"/>
 </p>
 
 <p align="center">
