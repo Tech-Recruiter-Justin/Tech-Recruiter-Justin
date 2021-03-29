@@ -35,7 +35,7 @@
 
 📄 *** My resume [https://drive.google.com/file/d/1AEUdd7BTpb5l0U5Ev0vzpNtBkDHDwkIx/view](https://drive.google.com/file/d/1AEUdd7BTpb5l0U5Ev0vzpNtBkDHDwkIx/view)
 
-👨 *** 💻 My web portfolio [www.justinchoi.net](www.justinchoi.net)
+👨 *** 💻 My web portfolio [www.justinchoi.net](https://www.justinchoi.net)
 
 📝 *** I regularly write articles on [https://www.linkedin.com/today/author/justinchchoi](https://www.linkedin.com/today/author/justinchchoi)
 
